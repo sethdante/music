@@ -1,0 +1,23 @@
+<!DOC TYPE html>
+<html>
+  <head>
+     <title>forms</title>
+   </head>
+
+  <body>
+     <h1>JOIN HERE</h1>
+     <h1>FORMS</h1>
+
+        <FIELDSET>
+
+          <LEGEND>Profile infos</LEGEND>
+
+          <label>Your name</label>
+
+          <input type="text" place holder="Enter your name">
+          <br>
+          <label>Your email</label>
+          <inp
+
+
+

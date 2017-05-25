@@ -1,0 +1,15 @@
+h1{
+	color:red;
+	font-size: 30px;
+}
+body{
+	background-image: url("images/hut.jpg");  no-repeat center;
+   -webkit-background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+
+label{
+	color:lime;
+}

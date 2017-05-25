@@ -1,0 +1,62 @@
+/* Text formatting with css */
+*{
+  margin: 0;
+  padding:0;
+  font font-weight: normal;
+}
+h2,h3,h4,h5,h6{
+	font-family: Helvetica,arial,sans-serif;
+  margin: 10px 0;
+	color:blue;
+	font-size: 20px;
+}
+body{
+   color:black;
+   text-align:center;
+   background-image: url("images/daniel.jpg"); no-repeat center;
+ -webkit-background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+h1{
+   font-family: italic;
+   font-size: 40px;
+   color:orange;
+   border:solid 5px #373737;
+   background: grey;
+}
+p,p2,p3,p4,p5,p6,p7{
+	color:red;
+	font-size: 20px;
+}
+ol{
+	font-size: 20px;
+	color: #123456;
+}
+a:link {
+	text-decoration:none; 
+  color: blue;
+  cursor: pointer;
+}
+p8{
+  color: #c43;
+  font-size: 30px;
+  cursor: pointer color-red;
+
+}
+legend{
+  text-align: center;
+
+}
+option{
+  color: #373737;
+}
+hr{
+  color: cyan;
+}
+
+a:hover{
+  color:blue;
+  font-size: 40px;
+  font-style: italic;
+}
